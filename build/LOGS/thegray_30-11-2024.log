@@ -1,0 +1,17 @@
+
+30-11-2024 04:57:08 : TEST : WebView2 Runtime Version '131.0.2903.70' installed. Minimum version required: 94.0.992.31.
+30-11-2024 04:57:08 : TEST : [AssetHandler] Handling request '/' (file='.')
+30-11-2024 04:57:08 : TEST : [AssetHandler] Handling request '/assets/index.fc40a09c.js' (file='assets/index.fc40a09c.js')
+30-11-2024 04:57:08 : TEST : [AssetHandler] Handling request '/assets/index.5a710b5e.css' (file='assets/index.5a710b5e.css')
+30-11-2024 04:57:08 : TEST : [AssetHandler] Handling request '/assets/logo-universal.dc203824.png' (file='assets/logo-universal.dc203824.png')
+30-11-2024 04:57:08 : TEST : [AssetHandler] Handling request '/favicon.ico' (file='favicon.ico')
+30-11-2024 04:57:08 : TEST : [AssetHandler] Handling request '/assets/nunito-v16-latin-regular.06f3af3f.woff2' (file='assets/nunito-v16-latin-regular.06f3af3f.woff2')
+30-11-2024 04:57:10 : TEST : This is a test for logger
+30-11-2024 04:57:13 : TEST : This is a test for logger
+30-11-2024 04:57:15 : TEST : WebView2 Runtime Version '131.0.2903.70' installed. Minimum version required: 94.0.992.31.
+30-11-2024 04:57:15 : TEST : [AssetHandler] Handling request '/' (file='.')
+30-11-2024 04:57:15 : TEST : [AssetHandler] Handling request '/assets/index.fc40a09c.js' (file='assets/index.fc40a09c.js')
+30-11-2024 04:57:15 : TEST : [AssetHandler] Handling request '/assets/index.5a710b5e.css' (file='assets/index.5a710b5e.css')
+30-11-2024 04:57:16 : TEST : [AssetHandler] Handling request '/assets/logo-universal.dc203824.png' (file='assets/logo-universal.dc203824.png')
+30-11-2024 04:57:16 : TEST : [AssetHandler] Handling request '/assets/nunito-v16-latin-regular.06f3af3f.woff2' (file='assets/nunito-v16-latin-regular.06f3af3f.woff2')
+30-11-2024 04:57:16 : TEST : [AssetHandler] Handling request '/favicon.ico' (file='favicon.ico')
