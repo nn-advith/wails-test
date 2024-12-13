@@ -3,6 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
+
+	"github.com/wailsapp/wails/v2/pkg/runtime"
 )
 
 // App struct
@@ -20,6 +22,23 @@ func NewApp() *App {
 func (a *App) startup(ctx context.Context) {
 	a.ctx = ctx
 
+}
+
+func (a *App) QuitApp() {
+	if a.ctx != nil {
+		runtime.Quit(a.ctx)
+	}
+}
+
+func (a *App) About() {
+	if a.ctx != nil {
+		runtime.MessageDialog(a.ctx, runtime.MessageDialogOptions{
+			Type:    "info",
+			Title:   "Information",
+			Message: "This is an informational message.",
+			Buttons: []string{"OK"},
+		})
+	}
 }
 
 // Greet returns a greeting for the given name
